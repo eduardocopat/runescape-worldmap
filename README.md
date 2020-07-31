@@ -2,11 +2,9 @@
 
 Check [here](https://api.maptiler.com/maps/e06a456c-3177-4bd3-adf6-dcb686a829e7/?key=7mHfXNiy4Wv2L5TPgLZk#14.4/51.49753/-0.12252).
 
-
+## Step-by-step
 
 Created using https://cloud.maptiler.com/ and the Streets basemap
-
-## Step-by-step
 
 Install and run vagrant (`vagrant up`) to convert png icons to svg. The PNG icons were downloaded from the osrs wiki.
 
