@@ -11,7 +11,7 @@
     "buffer-equal": "^0.0.1",
     "dom-walk": "^0.1.2",
     "exif-parser": "^0.1.12",
-    "file-type": "^9.0.0",
+    "file-type": "^16.5.4",
     "global": "^4.3.2",
     "ieee754": "^1.1.13",
     "is-function": "^1.0.2",
