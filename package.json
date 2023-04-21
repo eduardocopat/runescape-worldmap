@@ -27,7 +27,7 @@
     "parse-headers": "^2.0.3",
     "phin": "^2.9.3",
     "pixelmatch": "^4.0.2",
-    "potrace": "^2.1.6",
+    "potrace": "^2.1.8",
     "process": "^0.5.2",
     "sax": "^1.2.4",
     "timm": "^1.6.2",
